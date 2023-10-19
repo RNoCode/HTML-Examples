@@ -1,0 +1,670 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="EN" style="padding:0;Margin:0">
+<head>
+<meta charset="UTF-8">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta name="x-apple-disable-message-reformatting">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="telephone=no" name="format-detection">
+<title>I am the newsletter template for TIP</title><!--[if (mso 16)]>
+<style type="text/css">
+a {text-decoration: none;}
+</style>
+<![endif]--><!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]--><!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG></o:AllowPNG>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<style type="text/css">
+.rollover div {
+font-size:0;
+}
+.rollover:hover .rollover-first {
+max-height:0px!important;
+display:none!important;
+}
+.rollover:hover .rollover-second {
+max-height:none!important;
+display:block!important;
+}
+#outlook a {
+padding:0;
+}
+.ExternalClass {
+width:100%;
+}
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+line-height:100%;
+}
+.es-button {
+mso-style-priority:100!important;
+text-decoration:none!important;
+}
+a[x-apple-data-detectors] {
+color:inherit!important;
+text-decoration:none!important;
+font-size:inherit!important;
+font-family:inherit!important;
+font-weight:inherit!important;
+line-height:inherit!important;
+}
+.es-desk-hidden {
+display:none;
+float:left;
+overflow:hidden;
+width:0;
+max-height:0;
+line-height:0;
+mso-hide:all;
+}
+.es-button-border:hover a.es-button, .es-button-border:hover button.es-button {
+background:#a50f07!important;
+}
+.es-button-border:hover {
+border-color:#003e75 #003e75 #003e75 #003e75!important;
+background:#a50f07!important;
+}
+td .es-button-border:hover a.es-button-1 {
+}
+td .es-button-border-2:hover {
+border-color:#fedb03 #fedb03 #fedb03 #fedb03!important;
+background:#002240!important;
+}
+@media only screen and (max-width:600px) {p, ul li, ol li, a { line-height:150%!important } h1, h2, h3, h1 a, h2 a, h3 a { line-height:120%!important } h1 { font-size:25px!important; text-align:center } h2 { font-size:24px!important; text-align:center } h3 { font-size:20px!important; text-align:center } .es-header-body h1 a, .es-content-body h1 a, .es-footer-body h1 a { font-size:25px!important } .es-header-body h2 a, .es-content-body h2 a, .es-footer-body h2 a { font-size:24px!important } .es-header-body h3 a, .es-content-body h3 a, .es-footer-body h3 a { font-size:20px!important } .es-menu td a { font-size:14px!important } .es-header-body p, .es-header-body ul li, .es-header-body ol li, .es-header-body a { font-size:11px!important } .es-content-body p, .es-content-body ul li, .es-content-body ol li, .es-content-body a { font-size:14px!important } .es-footer-body p, .es-footer-body ul li, .es-footer-body ol li, .es-footer-body a { font-size:12px!important } .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-infoblock a { font-size:12px!important } *[class="gmail-fix"] { display:none!important } .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 { text-align:center!important } .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-txt-r h3 { text-align:right!important } .es-m-txt-l, .es-m-txt-l h1, .es-m-txt-l h2, .es-m-txt-l h3 { text-align:left!important } .es-m-txt-r img, .es-m-txt-c img, .es-m-txt-l img { display:inline!important } .es-button-border { display:inline-block!important } a.es-button, button.es-button { font-size:14px!important; display:inline-block!important; border-left-width:0px!important; border-right-width:0px!important } .es-btn-fw { border-width:10px 0px!important; text-align:center!important } .es-adaptive table, .es-btn-fw, .es-btn-fw-brdr, .es-left, .es-right { width:100%!important } .es-content table, .es-header table, .es-footer table, .es-content, .es-footer, .es-header { width:100%!important; max-width:600px!important } .es-adapt-td { display:block!important; width:100%!important } .adapt-img { width:100%!important; height:auto!important } .es-m-p0 { padding:0!important } .es-m-p0r { padding-right:0!important } .es-m-p0l { padding-left:0!important } .es-m-p0t { padding-top:0!important } .es-m-p0b { padding-bottom:0!important } .es-m-p20b { padding-bottom:20px!important } .es-mobile-hidden, .es-hidden { display:none!important } tr.es-desk-hidden, td.es-desk-hidden, table.es-desk-hidden { width:auto!important; overflow:visible!important; float:none!important; max-height:inherit!important; line-height:inherit!important } tr.es-desk-hidden { display:table-row!important } table.es-desk-hidden { display:table!important } td.es-desk-menu-hidden { display:table-cell!important } .es-menu td { width:1%!important } table.es-table-not-adapt, .esd-block-html table { width:auto!important } table.es-social { display:inline-block!important } table.es-social td { display:inline-block!important } .es-desk-hidden { display:table-row!important; width:auto!important; overflow:visible!important; max-height:inherit!important } .es-m-p5 { padding:5px!important } .es-m-p5t { padding-top:5px!important } .es-m-p5b { padding-bottom:5px!important } .es-m-p5r { padding-right:5px!important } .es-m-p5l { padding-left:5px!important } .es-m-p10 { padding:10px!important } .es-m-p10t { padding-top:10px!important } .es-m-p10b { padding-bottom:10px!important } .es-m-p10r { padding-right:10px!important } .es-m-p10l { padding-left:10px!important } .es-m-p15 { padding:15px!important } .es-m-p15t { padding-top:15px!important } .es-m-p15b { padding-bottom:15px!important } .es-m-p15r { padding-right:15px!important } .es-m-p15l { padding-left:15px!important } .es-m-p20 { padding:20px!important } .es-m-p20t { padding-top:20px!important } .es-m-p20r { padding-right:20px!important } .es-m-p20l { padding-left:20px!important } .es-m-p25 { padding:25px!important } .es-m-p25t { padding-top:25px!important } .es-m-p25b { padding-bottom:25px!important } .es-m-p25r { padding-right:25px!important } .es-m-p25l { padding-left:25px!important } .es-m-p30 { padding:30px!important } .es-m-p30t { padding-top:30px!important } .es-m-p30b { padding-bottom:30px!important } .es-m-p30r { padding-right:30px!important } .es-m-p30l { padding-left:30px!important } .es-m-p35 { padding:35px!important } .es-m-p35t { padding-top:35px!important } .es-m-p35b { padding-bottom:35px!important } .es-m-p35r { padding-right:35px!important } .es-m-p35l { padding-left:35px!important } .es-m-p40 { padding:40px!important } .es-m-p40t { padding-top:40px!important } .es-m-p40b { padding-bottom:40px!important } .es-m-p40r { padding-right:40px!important } .es-m-p40l { padding-left:40px!important } }
+@media screen and (max-width:9999px) {.cboxcheck:checked + input + * .thumb-carousel { height:auto!important; max-height:none!important; max-width:none!important; line-height:0 } .thumb-carousel span { font-size:0; line-height:0 } .cboxcheck:checked + input + * .thumb-carousel .car-content { display:none; max-height:0px; overflow:hidden } .cbox0:checked + * .content-1, .thumb-carousel .cbox1:checked + span .content-1, .thumb-carousel .cbox2:checked + span .content-2, .thumb-carousel .cbox3:checked + span .content-3, .thumb-carousel .cbox4:checked + span .content-4, .thumb-carousel .cbox5:checked + span .content-5 { display:block!important; max-height:none!important; overflow:visible!important } .thumb-carousel .thumb { cursor:pointer; display:inline-block!important; width:17.5%; margin:1% 0.61%; border:0px solid rgb(187, 187, 187) } .moz-text-html .thumb { display:none!important } .thumb-carousel .thumb:hover { border:0px solid rgb(68, 68, 68) } .cbox0:checked + * .thumb-1, .thumb-carousel .cbox1:checked + span .thumb-1, .thumb-carousel .cbox2:checked + span .thumb-2, .thumb-carousel .cbox3:checked + span .thumb-3, .thumb-carousel .cbox4:checked + span .thumb-4, .thumb-carousel .cbox5:checked + span .thumb-5 { border-color:rgb(51, 51, 51) } .thumb-carousel .thumb img { width:100%; height:auto } .thumb-carousel img { max-height:none!important } .cboxcheck:checked + input + * .fallback { display:none!important; display:none; max-height:0px; height:0px; overflow:hidden } }
+@media screen and (max-width:600px) {.car-table.responsive, .car-table.responsive .thumb-carousel, .car-table.responsive .thumb-carousel .car-content img, .car-table.responsive .fallback .car-content img { width:100%!important; height:auto } }
+@media screen {}
+</style>
+</head>
+<body style="width:100%;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0">
+<div style="display:none !important;font-size:0px;line-height:0;color:#ffffff;visibility:hidden;opacity:0;height:0;width:0;mso-hide:all">
+This is the newsletter!
+</div>
+<div dir="ltr" class="es-wrapper-color" lang="EN" style="background-color:#F6F6F6"><!--[if gte mso 9]>
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+<v:fill type="tile" color="#f6f6f6"></v:fill>
+</v:background>
+<![endif]-->
+<table class="es-wrapper" width="100%" cellspacing="0" cellpadding="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background-repeat:repeat;background-position:center top;background-color:#F6F6F6">
+<tr style="border-collapse:collapse">
+<td valign="top" style="padding:0;Margin:0">
+<table cellpadding="0" cellspacing="0" class="es-header" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%;background-color:transparent;background-repeat:repeat;background-position:center top">
+<tr style="border-collapse:collapse">
+<td class="es-adaptive" align="center" style="padding:0;Margin:0">
+<table class="es-header-body" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF" role="none">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;padding-right:10px">
+<table cellspacing="0" cellpadding="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;width:590px">
+<table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="right" class="es-m-txt-c" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><a href="{{View_Online}}" target="_blank" class="view" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#cccccc;font-size:11px;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif">View in browser</a></p></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" class="es-content" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0">
+<table bgcolor="#fafafa" class="es-content-body" align="center" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#fafafa;width:600px" role="none">
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#fff" style="padding:0;Margin:0;background-color:#ffffff">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;width:600px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><a target="_blank" href="https://www.youtube.com/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#2CB543;font-size:14px"><img class="adapt-img" src="https://storage.pardot.com/126271/1697721332ivP8jdYF/1a.Gif_Limited_Availability_Desktop.gif" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="600"></a></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" class="es-m-txt-l" style="padding:0;Margin:0;padding-top:10px;padding-left:20px;padding-right:20px"><h2 style="Margin:0;line-height:29px;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;font-size:24px;font-style:normal;font-weight:bold;color:#002240">Premium used trucks and trailers waiting for you.<br></h2></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" style="Margin:0;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;font-size:0">
+<table border="0" width="20%" height="100%" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td style="padding:0;Margin:0;border-bottom:3px solid #c4151c;background:none;height:1px;width:100%;margin:0px"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#ffffff" style="padding:0;Margin:0;background-color:#ffffff">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:600px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;padding-left:20px;padding-right:20px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><span style="color:#FF0000">[Banner GIF animated header: Aerial view of Trucks, with a "Limited Availability" tag<br>overlay, focussing on scarcity]</span><br><br><br>Dear {{Recipient.FirstName}},<br>In the dynamic world of fleet management, timing is everything. We're reaching out<br>with an exclusive opportunity that's too good to miss. Due to the growing demand and<br>the unique challenges of today's market, directly available fleet units are becoming a<br>rarity across all regions TIP operates in.<br><br><strong>Why This Matters to You?</strong><br><b>☑</b> Immediate Availability: While most are waiting, you have the chance to access<br>our premium fleet units, ready and waiting.<b>&nbsp; &nbsp; &nbsp;</b><br><b>&nbsp; &nbsp;☑</b> Scarcity Advantage: As fleet units become scarcer, having immediate access<br>offers you a competitive edge in your operations.<b>&nbsp; &nbsp; &nbsp;</b><br><b>&nbsp; &nbsp;☑</b> TIP Assurance: With each unit, you receive the TIP guarantee of quality,<br>maintenance, and support.</p></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#ffffff" style="padding:0;Margin:0;background-color:#ffffff">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:600px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;padding-top:20px;padding-bottom:30px"><!--[if mso]><a href="https://www.tip-group.com/en/trailer-rental-leasing-enquiry-form" target="_blank" hidden>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" esdevVmlButton href="https://www.tip-group.com/en/trailer-rental-leasing-enquiry-form"
+style="height:36px; v-text-anchor:middle; width:149px" arcsize="50%" stroke="f" fillcolor="#c4151c">
+<w:anchorlock></w:anchorlock>
+<center style='color:#ffffff; font-family:"trebuchet ms", "lucida grande", "lucida sans unicode", "lucida sans", tahoma, sans-serif; font-size:12px; font-weight:400; line-height:12px; mso-text-raise:1px'>TELL ME MORE</center>
+</v:roundrect></a>
+<![endif]--><!--[if !mso]><!-- --><span class="msohide es-button-border" style="border-style:solid;border-color:#002240;background:#c4151c;border-width:0px;display:inline-block;border-radius:50px;width:auto;mso-hide:all"><a href="https://www.tip-group.com/en/trailer-rental-leasing-enquiry-form" class="es-button es-button-1691160022133" target="_blank" style="mso-style-priority:100 !important;text-decoration:none;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;color:#FFFFFF;font-size:14px;display:inline-block;background:#C4151C;border-radius:50px;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;font-weight:normal;font-style:normal;line-height:17px;width:auto;text-align:center;padding:10px 20px;mso-padding-alt:0;mso-border-alt:10px solid #C4151C">TELL ME MORE</a></span><!--<![endif]--></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><img class="adapt-img" alt src="https://cdt-timer.stripocdn.email/api/v1/images/uYdxU0_yjZXWx2Mtrta-avBtcfkrdtzCJtZtjCM2LXE?l=1697721511996" width="239" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:20px;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><span style="color:#FF0000">[Image: A ticking clock or hourglass to emphasize urgency]</span><br>Time is of the essence, and these units are on a first-come-first-serve basis. If you've<br>been considering expanding or renewing your fleet, now is the perfect moment.</p></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px;background-color:#f6f6f6" bgcolor="#f6f6f6">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:560px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><h2 style="Margin:0;line-height:29px;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;font-size:24px;font-style:normal;font-weight:bold;color:#002240">Our products</h2></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:10px;Margin:0;font-size:0">
+<table border="0" width="15%" height="100%" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td style="padding:0;Margin:0;border-bottom:3px solid #c4151c;background:none;height:1px;width:100%;margin:0px"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#ffffff" style="padding:20px;Margin:0;background-color:#ffffff"><!--[if mso]><table style="width:560px" cellpadding="0" cellspacing="0"><tr><td style="width:145px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td class="es-m-p0r es-m-p20b" align="center" style="padding:0;Margin:0;width:125px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/carousels/image/9b86c30529c6f04aac3f178b21e24c95_2.jpg?itok=U6ldhG7E" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="125"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#333333;font-size:14px" href="">Box Trailer</a></strong></p></td>
+</tr>
+</table></td>
+<td class="es-hidden" style="padding:0;Margin:0;width:20px"></td>
+</tr>
+</table><!--[if mso]></td><td style="width:145px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td class="es-m-p20b" align="center" style="padding:0;Margin:0;width:125px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/carousels/image/f61163dbed68725de66ac49248dda724.jpg?itok=129qh4ev" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="125"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#333333;font-size:14px" href="">Schuifzeiltrailer</a></strong></p></td>
+</tr>
+</table></td>
+<td class="es-hidden" style="padding:0;Margin:0;width:20px"></td>
+</tr>
+</table><!--[if mso]></td><td style="width:125px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td class="es-m-p20b" align="center" style="padding:0;Margin:0;width:125px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/carousels/image/15cfb1806880496423fa6f5b1fe9636b.jpg?itok=ECXp8aYD" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="125"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#333333;font-size:14px" href="">Koeltrailer</a></strong></p></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td><td style="width:20px"></td><td style="width:125px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-right" align="right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;width:125px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/carousels/image/ContainerChassis_a2.jpg?itok=PhhlmOVv" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="125"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#333333;font-size:14px" href="">Containerchassis</a></strong></p></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td></tr></table><![endif]--></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#ffffff" style="padding:20px;Margin:0;background-color:#ffffff"><!--[if mso]><table style="width:560px" cellpadding="0" cellspacing="0"><tr><td style="width:145px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td class="es-m-p0r es-m-p20b" align="center" style="padding:0;Margin:0;width:125px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/carousels/image/3D%20tekening%20TIP%20truck.png?itok=8KdviOjY" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="125"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#333333;font-size:14px" href="">Trucks</a></strong></p></td>
+</tr>
+</table></td>
+<td class="es-hidden" style="padding:0;Margin:0;width:20px"></td>
+</tr>
+</table><!--[if mso]></td><td style="width:145px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td class="es-m-p20b" align="center" style="padding:0;Margin:0;width:125px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/carousels/image/Double-deck-renderA.jpg?itok=FwTI7d0Z" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="125"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#333333;font-size:14px" href="">Doubledeck trailer</a></strong></p></td>
+</tr>
+</table></td>
+<td class="es-hidden" style="padding:0;Margin:0;width:20px"></td>
+</tr>
+</table><!--[if mso]></td><td style="width:125px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td class="es-m-p20b" align="center" style="padding:0;Margin:0;width:125px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/carousels/image/SewerCleaner_a.jpg?itok=icqvDnr2" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="125"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#333333;font-size:14px" href="">Vacuum truck</a></strong></p></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td><td style="width:20px"></td><td style="width:125px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-right" align="right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;width:125px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/carousels/image/NL_Overview%20our%20fleet_092022.png?itok=dQHXUBic" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="125"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#333333;font-size:14px" href="">Hele vloot</a></strong></p></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td></tr></table><![endif]--></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#ffffff" style="padding:0;Margin:0;background-color:#ffffff">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:600px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;padding-top:20px;padding-bottom:20px"><!--[if mso]><a href="https://www.tip-group.com/en/trailer-rental-leasing-enquiry-form" target="_blank" hidden>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" esdevVmlButton href="https://www.tip-group.com/en/trailer-rental-leasing-enquiry-form"
+style="height:36px; v-text-anchor:middle; width:209px" arcsize="50%" stroke="f" fillcolor="#c4151c">
+<w:anchorlock></w:anchorlock>
+<center style='color:#ffffff; font-family:"trebuchet ms", "lucida grande", "lucida sans unicode", "lucida sans", tahoma, sans-serif; font-size:12px; font-weight:400; line-height:12px; mso-text-raise:1px'>RESERVE MY UNITS NOW</center>
+</v:roundrect></a>
+<![endif]--><!--[if !mso]><!-- --><span class="msohide es-button-border" style="border-style:solid;border-color:#002240;background:#c4151c;border-width:0px;display:inline-block;border-radius:50px;width:auto;mso-hide:all"><a href="https://www.tip-group.com/en/trailer-rental-leasing-enquiry-form" class="es-button es-button-1697720850593" target="_blank" style="mso-style-priority:100 !important;text-decoration:none;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;color:#FFFFFF;font-size:14px;display:inline-block;background:#C4151C;border-radius:50px;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;font-weight:normal;font-style:normal;line-height:17px;width:auto;text-align:center;padding:10px 20px;mso-padding-alt:0;mso-border-alt:10px solid #C4151C">RESERVE MY UNITS NOW</a></span><!--<![endif]--></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:20px;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><b>Additional Benefits:</b><br>Sustainability: Join us on our mission towards carbon-neutral operations by 2050.<br>Financial Flexibility: Experience unparalleled financial stability and risk management<br>with TIP's leasing solutions.<br>Expertise &amp; Support: With TIP, you're not just acquiring a unit; you're gaining a partner<br>dedicated to your fleet's success.</p></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px;background-color:#f6f6f6" bgcolor="#f6f6f6">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:560px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img src="https://go.tip-group.com/l/126271/2023-10-19/85dmjn/126271/1697708393JR2joeB1/used_equipment.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="300"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:10px;Margin:0;font-size:0">
+<table border="0" width="15%" height="100%" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td style="padding:0;Margin:0;border-bottom:3px solid #c4151c;background:none;height:1px;width:100%;margin:0px"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#ffffff" style="padding:0;Margin:0;background-color:#ffffff">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:600px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="Margin:0;padding-top:10px;padding-bottom:20px;padding-left:20px;padding-right:20px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong>Discover Quality Second-Hand Units: Expand Your Fleet with TIP Used!</strong></p></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#ffffff" style="padding:0;Margin:0;background-color:#ffffff">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:600px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="left" style="Margin:0;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong>Why Choose TIP Used?</strong><br><b>☑</b> Widest choice of asset types and specifications<br><b>☑</b> More than 120,000 assets for a period of &lt;12 months<br><b>☑</b> Immediate availability from a choice of locations<br><b>☑</b> Maintenance and breakdown services included<br><b>☑</b> Competitive rates<br><b>☑</b> Get a quote within 2 days</p></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;padding-top:20px;padding-bottom:20px"><!--[if mso]><a href="" target="_blank" hidden>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" esdevVmlButton href=""
+style="height:36px; v-text-anchor:middle; width:228px" arcsize="50%" stroke="f" fillcolor="#c4151c">
+<w:anchorlock></w:anchorlock>
+<center style='color:#ffffff; font-family:"trebuchet ms", "lucida grande", "lucida sans unicode", "lucida sans", tahoma, sans-serif; font-size:12px; font-weight:400; line-height:12px; mso-text-raise:1px'>DISCOVER AVAILABLE UNITS</center>
+</v:roundrect></a>
+<![endif]--><!--[if !mso]><!-- --><span class="msohide es-button-border" style="border-style:solid;border-color:#002240;background:#c4151c;border-width:0px;display:inline-block;border-radius:50px;width:auto;mso-hide:all"><a href="" class="es-button es-button-1697720983006" target="_blank" style="mso-style-priority:100 !important;text-decoration:none;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;color:#FFFFFF;font-size:14px;display:inline-block;background:#C4151C;border-radius:50px;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;font-weight:normal;font-style:normal;line-height:17px;width:auto;text-align:center;padding:10px 20px;mso-padding-alt:0;mso-border-alt:10px solid #C4151C">DISCOVER AVAILABLE UNITS</a></span><!--<![endif]--></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#ffffff" style="padding:0;Margin:0;background-color:#ffffff">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:600px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:20px;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><b></b>Remember, opportunities like these are fleeting. Ensure your business's seamless<br>operations by securing these limited units.<br>Should you have any questions or need further insights, our dedicated team is just an<br>email or phone call away.<br><br>"Navigating Tomorrow: Your Trusted Fleet Partner."<br><br>Warm regards,<br><br>TIP Group</p></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px;background-color:#f6f6f6" bgcolor="#f6f6f6">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:560px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><h2 style="Margin:0;line-height:29px;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;font-size:24px;font-style:normal;font-weight:bold;color:#002240">Voice of customers<br></h2></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:10px;Margin:0;font-size:0">
+<table border="0" width="15%" height="100%" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td style="padding:0;Margin:0;border-bottom:3px solid #c4151c;background:none;height:1px;width:100%;margin:0px"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td class="esdev-adapt-off" align="left" bgcolor="#ffffff" style="padding:20px;Margin:0;background-color:#ffffff">
+<table cellpadding="0" cellspacing="0" class="esdev-mso-table" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:560px">
+<tr style="border-collapse:collapse">
+<td class="esdev-mso-td" valign="top" style="padding:0;Margin:0">
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;width:30px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img src="https://ttmlzt.stripocdn.email/content/guids/CABINET_8e6fb1b9df79ec87b7fcaf12a2ef4a615a6ed51e631782ef1fd145af4cbe414d/images/94e5334baae0410685f40993cf8f1470.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="30"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+<td class="esdev-mso-td" valign="top" style="padding:0;Margin:0">
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;width:410px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;padding-left:10px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px">"Quality, Reliability, and Trust - That's TIP Group."</p></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+<td class="esdev-mso-td" valign="top" style="padding:0;Margin:0">
+<table cellpadding="0" cellspacing="0" class="es-right" align="right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;width:120px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;padding-left:10px;font-size:0px"><img src="https://ttmlzt.stripocdn.email/content/guids/CABINET_8e6fb1b9df79ec87b7fcaf12a2ef4a615a6ed51e631782ef1fd145af4cbe414d/images/3673020.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="110"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px;background-color:#f6f6f6" bgcolor="#f6f6f6">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:560px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><h2 style="Margin:0;line-height:29px;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;font-size:24px;font-style:normal;font-weight:bold;color:#002240">TIP Highlighted services</h2></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:10px;Margin:0;font-size:0">
+<table border="0" width="15%" height="100%" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td style="padding:0;Margin:0;border-bottom:3px solid #c4151c;background:none;height:1px;width:100%;margin:0px"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#fff" style="padding:20px;Margin:0;background-color:#ffffff"><!--[if mso]><table style="width:560px" cellpadding="0" cellspacing="0"><tr><td style="width:140px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td class="es-m-p0r" align="center" style="padding:0;Margin:0;width:140px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/cards/image/Lease_color_wo-text_large_0.jpg?itok=6dbmMfCi" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="140"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><b>Lease</b></p></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td><td style="width:140px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;width:140px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/cards/image/Rental_color_wo-text_large_1.jpg?itok=5WEj6Vcj" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="140"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong>Rent</strong></p></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td><td style="width:140px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;width:140px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/cards/image/Maintenance_color_wo-text_large%2520_1.jpg?itok=zVVqrKzX" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="140"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong>Maintenance</strong></p></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td><td style="width:0px"></td><td style="width:140px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-right" align="right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;width:140px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;font-size:0px"><img src="https://cdn.tip-group.com/s3fs-public/styles/16_9_sm/public/cards/image/TIP%20Used%201000x563_0_1.jpg?itok=3Df4cq-U" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="140"></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#333333;font-size:14px"><strong>TIP Used</strong></p></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td></tr></table><![endif]--></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0">
+<table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" valign="top" style="padding:0;Margin:0;width:600px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:5px;Margin:0;font-size:0" bgcolor="#f6f6f6">
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td style="padding:0;Margin:0;border-bottom:0px solid #f6f6f6;background:unset;height:1px;width:100%;margin:0px"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" class="es-footer" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%;background-color:transparent;background-repeat:repeat;background-position:center top">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0">
+<table class="es-footer-body" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#c4151c;width:600px" cellspacing="0" cellpadding="0" bgcolor="#c4151c" align="center" role="none">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px"><!--[if mso]><table style="width:560px" cellpadding="0" cellspacing="0"><tr><td style="width:180px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" align="left" class="es-left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td class="es-m-p20b" align="center" valign="top" style="padding:0;Margin:0;width:180px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0">
+<ul>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u><a href="https://www.tip-group.com/en-gb/rental" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:12px" target="_blank">Trailer huren</a></u></li>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u><a href="https://www.tip-group.com/en-gb/lease" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:12px" target="_blank">Trailer leasen</a></u></li>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u><a href="https://www.tip-group.com/en-gb/fleet-services/trailer-maintenance" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:12px" target="_blank">Traileronderhoud</a></u></li>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u><a href="https://www.tip-group.com/nl-be/traileronderdelen" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:12px">Traileronderdelen</a></u></li>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u><a target="_blank" href="https://www.tip-used.com/en-gb/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:12px">TIP Used</a></u></li>
+</ul></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td><td style="width:200px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-left" align="left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+<tr style="border-collapse:collapse">
+<td align="left" class="es-m-p20b" style="padding:0;Margin:0;width:200px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0">
+<ul>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u><a href="https://www.tip-group.com/en-gb/fleet-services/digital-services" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:12px" target="_blank">Pechhulpservice</a></u></li>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u><a href="https://www.tip-group.com/nl-be/services/vlootadvies" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:12px">Vlootadvies</a></u></li>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u><a href="https://www.tip-group.com/en-gb/fleet-services/digital-services/fleetradar" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:12px" target="_blank">TIP Insight</a></u></li>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u>Onze vloot</u></li>
+</ul></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td><td style="width:0px"></td><td style="width:180px" valign="top"><![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-right" align="right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0;width:180px">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0;Margin:0">
+<ul>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u>Vacatures</u></li>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u>Locaties</u></li>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u>Contact</u></li>
+<li style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:12px;Margin-bottom:15px;margin-left:0;color:#ffffff;font-size:12px"><u>Kennis en nieuws</u></li>
+</ul></td>
+</tr>
+</table></td>
+</tr>
+</table><!--[if mso]></td></tr></table><![endif]--></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#fff" style="Margin:0;padding-bottom:5px;padding-top:10px;padding-left:20px;padding-right:20px;background-color:#ffffff">
+<table width="100%" cellspacing="0" cellpadding="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td valign="top" align="center" style="padding:0;Margin:0;width:560px">
+<table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#002240;font-size:14px"><strong>Follow us on</strong></p></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;padding-bottom:10px;font-size:0px">
+<table class="es-table-not-adapt es-social" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td valign="top" align="center" style="padding:0;Margin:0;padding-right:15px"><a target="_blank" href="https://www.facebook.com/tipeurope/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:14px"><img title="Facebook" src="https://ttmlzt.stripocdn.email/content/assets/img/social-icons/logo-black/facebook-logo-black.png" alt="Fb" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+<td valign="top" align="center" style="padding:0;Margin:0;padding-right:15px"><a target="_blank" href="https://www.linkedin.com/company/tip-group/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:14px"><img title="Linkedin" src="https://ttmlzt.stripocdn.email/content/assets/img/social-icons/logo-black/linkedin-logo-black.png" alt="In" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+<td valign="top" align="center" style="padding:0;Margin:0;padding-right:15px"><a target="_blank" href="https://www.youtube.com/channel/UCvjFtUrPYGkV5nkiDyU1YYA" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:14px"><img title="Youtube" src="https://ttmlzt.stripocdn.email/content/assets/img/social-icons/logo-black/youtube-logo-black.png" alt="Yt" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+<td valign="top" align="center" style="padding:0;Margin:0"><a target="_blank" href="https://www.instagram.com/tipgroupcan/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#FFFFFF;font-size:14px"><img title="Instagram" src="https://ttmlzt.stripocdn.email/content/assets/img/social-icons/logo-black/instagram-logo-black.png" alt="Ig" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:10px;Margin:0;font-size:0">
+<table border="0" width="15%" height="100%" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<tr style="border-collapse:collapse">
+<td style="padding:0;Margin:0;border-bottom:3px solid #c4151c;background:none;height:1px;width:100%;margin:0px"></td>
+</tr>
+</table></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;padding-top:5px;padding-bottom:10px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:17px;color:#999999;font-size:11px"><em>Copyright TIP Group 2023, All rights reserved.</em></p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:17px;color:#999999;font-size:11px"><em>You are receiving this email because you opted in, or ar an active customer of TIP Group.</em></p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:21px;color:#999999;font-size:11px"><i><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#999999;font-size:11px" href="https://www.tip-group.com/nl-be/contact">contact details</a> |<a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#999999;font-size:14px" href="https://www.tip-group.com/nl-be/over-tip/privacybeleid"><span style="font-size:11px">privacy policy</span></a></i></p></td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0;Margin:0;padding-top:5px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:17px;color:#999999;font-size:11px"><em>Want to change how you receive these emails?</em></p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;line-height:17px;color:#999999;font-size:11px"><em>You can change your <a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#999999;font-size:11px" href="{{{EmailPreferenceCenter}}}">preferences here</a></em></p></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+</div>
+</body>
+</html>
